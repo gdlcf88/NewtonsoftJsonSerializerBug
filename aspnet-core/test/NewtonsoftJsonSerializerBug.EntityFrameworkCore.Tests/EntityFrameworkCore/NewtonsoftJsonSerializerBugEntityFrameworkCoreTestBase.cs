@@ -1,0 +1,8 @@
+﻿using Volo.Abp;
+
+namespace NewtonsoftJsonSerializerBug.EntityFrameworkCore;
+
+public abstract class NewtonsoftJsonSerializerBugEntityFrameworkCoreTestBase : NewtonsoftJsonSerializerBugTestBase<NewtonsoftJsonSerializerBugEntityFrameworkCoreTestModule>
+{
+
+}

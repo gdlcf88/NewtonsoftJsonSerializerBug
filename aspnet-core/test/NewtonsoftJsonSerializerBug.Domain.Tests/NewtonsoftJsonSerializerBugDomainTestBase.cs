@@ -1,0 +1,6 @@
+﻿namespace NewtonsoftJsonSerializerBug;
+
+public abstract class NewtonsoftJsonSerializerBugDomainTestBase : NewtonsoftJsonSerializerBugTestBase<NewtonsoftJsonSerializerBugDomainTestModule>
+{
+
+}
